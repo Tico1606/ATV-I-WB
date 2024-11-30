@@ -5,7 +5,7 @@
 Abra o CMD(Prompt de Comando) e clone o repositório em sua máquina usando o comando abaixo ou baixe o código que está na página do repositório:
 
 ``` bash
-git clone https://github.com/Tico1606/ATV_I.git
+git clone https://github.com/Tico1606/ATV-I-WB.git
 ```
 
 Obs: É necessário ter o Git na sua máquina.
